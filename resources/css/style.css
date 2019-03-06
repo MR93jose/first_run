@@ -1,0 +1,58 @@
+body {
+  /* background-color: yellow; */
+  font-family:'Architects Daughter', cursive;
+  /* background-image: url('../images/drag.jpg'); */
+  background-image: url('http://speedhunters-wp-production.s3.amazonaws.com/wp-content/uploads/2016/02/03054315/2016-ADRL-Round-Three-by-Paddy-McGrath-9.jpg');
+
+}
+
+main {
+  text-align: right;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+li {
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: white;
+}
+
+nav {
+  /* background-color: black;
+  opacity: 0.5; */
+  background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+/* HEADINGS */
+/* header.main deleted */
+
+.header--secondary{
+  font-weight: 300;
+  font-size: 42px;
+  color: black;
+}
+
+.header--sub-header{
+  font-size: 21px;
+  color: black;
+}
+
+/* Links */
+
+.link--cta {
+  font-size: 16px;
+  color: white;
+}
